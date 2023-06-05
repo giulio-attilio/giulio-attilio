@@ -2,7 +2,7 @@
 <br>
 <p>My name is Giulio Attilio Pietroluongo and I'm a Front-End Developer from Brazil. I started to learn Coding in 2023 after realized that I have plenty of free time in my current job as a Professional Pilot in a private jet :airplane:. 
 <p>As I always wanted to be part of the Programming world, my goal is to boost my knowledge and my skills aiming to be part of this fascinating technological universe. 
-<p>Feel free to give me some to improve my codes.
+<p>Feel free to give me advices to improve my codes.
 <br>
 <br>
 Learning about:
