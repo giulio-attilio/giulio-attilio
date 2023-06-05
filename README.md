@@ -14,7 +14,11 @@ Learning about:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 <br>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giulio-attilio)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Giulio's stats](https://github-readme-stats.vercel.app/api?username=giulio-attilio)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 
